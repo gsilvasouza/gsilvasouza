@@ -1,6 +1,6 @@
-Olá meu nome é Gabriel Souza
+# Olá meu nome é Gabriel Souza
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsilvasouza&show_icons=true&theme=radical)
 
 ## Repositórios Importantes
 
