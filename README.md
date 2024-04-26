@@ -1,1 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsilvasouza)](https://github.com/anuraghazra/github-readme-stats)
+Olá meu nome é Gabriel Souza
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
